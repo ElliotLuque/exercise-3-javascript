@@ -1,0 +1,16 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+hr {
+    margin-top: 5rem;
+}
+
+h1 {
+    font-weight: normal;
+    color: hsl(0, 0%, 20%);
+}
+
+span {
+    font-weight: bold;
+}
